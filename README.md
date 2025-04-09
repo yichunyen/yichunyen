@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### About Me
+I am a Developer to explore self potencial and store every ideas on my github.
+### Dahsboard
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yichunyen&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
